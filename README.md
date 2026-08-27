@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="./github-header-banner.png" alt="Welcome Banner" />
+  <img src="./header.svg" alt="Welcome Banner" />
 </p>
